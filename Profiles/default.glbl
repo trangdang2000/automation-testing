@@ -4,4 +4,9 @@
    <name>default</name>
    <tag></tag>
    <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Trang'</initValue>
+      <name>first_name</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

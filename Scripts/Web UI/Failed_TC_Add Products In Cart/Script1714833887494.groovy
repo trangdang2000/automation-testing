@@ -21,19 +21,23 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://automationexercise.com/')
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Page_Automation Exercise/a_Signup  Login'))
+WebUI.click(findTestObject('Object Repository/Page_Automation Exercise/a_Products'))
 
-WebUI.click(findTestObject('Object Repository/Page_Automation Exercise/a_Signup  Login'))
+WebUI.click(findTestObject('Object Repository/Page_Automation Exercise - All Products/a_Add to cart'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Automation Exercise - Signup  Login/input_New User Signup_name'), 'Trang')
+WebUI.click(findTestObject('Object Repository/Page_Automation Exercise - All Products/u_View Cart'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Automation Exercise - Signup  Login/input_Login to your account_email'), 
-    'trangdang.13101@gmail.com')
+WebUI.click(findTestObject('Object Repository/Page_Automation Exercise - All Products/button_Continue Shopping'))
 
-WebUI.click(findTestObject('Object Repository/Page_Automation Exercise - Signup  Login/button_Signup'))
+WebUI.click(findTestObject('Object Repository/Page_Automation Exercise - All Products/p_Men Tshirt'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Automation Exercise - Signup/b_Enter Account Information'), 
-    0)
+WebUI.click(findTestObject('Object Repository/Page_Automation Exercise - All Products/a_Add to cart'))
+
+WebUI.click(findTestObject('Object Repository/Page_Automation Exercise - All Products/u_View Cart'))
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Automation Exercise - Checkout/a_Blue Top'), 0)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Automation Exercise - Checkout/a_Men Tshirt'), 0)
 
 WebUI.closeBrowser()
 

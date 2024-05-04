@@ -26,10 +26,12 @@ WebUI.click(findTestObject('Object Repository/Page_Automation Exercise - Signup 
 WebUI.setText(findTestObject('Object Repository/Page_Automation Exercise - Signup  Login/input_Login to your account_email'), 
     'trangdang.1310@gmail.com')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Automation Exercise - Signup  Login/input_Login to your account_password'), 
+WebUI.setEncryptedText(findTestObject('Page_Automation Exercise - Signup  Login/input_Login to your account_password'), 
     'aeHFOx8jV/A=')
 
 WebUI.click(findTestObject('Object Repository/Page_Automation Exercise - Signup  Login/button_Login'))
+
+WebUI.verifyElementPresent(findTestObject('Page_Automation Exercise/a_Logged in as Trang'), 0)
 
 WebUI.closeBrowser()
 

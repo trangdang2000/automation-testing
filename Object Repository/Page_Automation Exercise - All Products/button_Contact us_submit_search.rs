@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>a475c26c-4162-4ee4-8552-4ae77d804b65</webElementGuid>
+      <webElementGuid>2dbf8e42-5be6-4fff-9d2e-663a76764c7f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>0ac9c25d-1c6e-4d66-8a2f-ed20dccfe2aa</webElementGuid>
+      <webElementGuid>2d3246a7-507e-49ab-a657-bade271f0fbe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>id</name>
       <type>Main</type>
       <value>submit_search</value>
-      <webElementGuid>0776b0e5-0b87-43e2-8b57-160a26dd9aa3</webElementGuid>
+      <webElementGuid>9d2a2802-b356-4d70-a0c1-29de266a200e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-default btn-lg</value>
-      <webElementGuid>4e15395b-e853-4546-a9f4-313e1d2f5d0c</webElementGuid>
+      <webElementGuid>a11e4f84-9b00-446d-b864-af534aba1b65</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;submit_search&quot;)</value>
-      <webElementGuid>d7ecd22c-3311-4427-9b73-5692440400e6</webElementGuid>
+      <webElementGuid>3ebba199-7055-4714-8376-d5db92991610</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='submit_search']</value>
-      <webElementGuid>e62db079-ff6d-4336-ab56-db5bc2bcea90</webElementGuid>
+      <webElementGuid>fdc80a5d-31e8-4c83-9c34-b461990bf2e4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//section[@id='advertisement']/div/button</value>
-      <webElementGuid>a1bee9ce-dc71-4c4d-9767-bdc16e722606</webElementGuid>
+      <webElementGuid>7b323653-6d82-4ac1-b018-a1d843c2419b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact us'])[1]/following::button[1]</value>
-      <webElementGuid>cdb4061b-9912-430b-98c9-edffa5343b89</webElementGuid>
+      <webElementGuid>028d7fec-7cfb-46cd-a7c1-7ac7b28eb9f6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Video Tutorials'])[1]/following::button[1]</value>
-      <webElementGuid>20c70fe5-c4da-4d10-bc3f-bbd156644ca2</webElementGuid>
+      <webElementGuid>085f2773-1f27-493d-9b5c-556ece5bd906</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Category'])[1]/preceding::button[1]</value>
-      <webElementGuid>bbda90bb-2fd0-4745-872e-8f4a9b325607</webElementGuid>
+      <webElementGuid>f5fe2def-65d7-4c24-bb00-0b12ed501174</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button</value>
-      <webElementGuid>73b2c87f-6c08-4644-9206-d380e124d2e0</webElementGuid>
+      <webElementGuid>c5154f87-0912-4204-97b6-93b4422a6fe1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,6 +117,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and @id = 'submit_search']</value>
-      <webElementGuid>1c58e54f-6741-4b64-a7b3-9f09240f6215</webElementGuid>
+      <webElementGuid>956a1440-2234-4389-990e-fb79d9303cca</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

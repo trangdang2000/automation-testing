@@ -23,21 +23,15 @@ WebUI.navigateToUrl('https://automationexercise.com/')
 
 WebUI.click(findTestObject('Object Repository/Page_Automation Exercise/a_Products'))
 
-WebUI.click(findTestObject('Object Repository/Page_Automation Exercise/path'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/Page_Automation Exercise - All Products/h2_All Products'))
 
-WebUI.click(findTestObject('Object Repository/Page_Automation Exercise - All Products/a_Add to cart'))
+WebUI.setText(findTestObject('Object Repository/Page_Automation Exercise - All Products/input_Contact us_search'), 'dress')
 
-WebUI.click(findTestObject('Object Repository/Page_Automation Exercise - All Products/u_View Cart'))
+WebUI.click(findTestObject('Object Repository/Page_Automation Exercise - All Products/button_Contact us_submit_search'))
 
-WebUI.click(findTestObject('Object Repository/Page_Automation Exercise - All Products/button_Continue Shopping'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/Page_Automation Exercise - All Products/h2_Searched Products'))
 
-WebUI.click(findTestObject('Object Repository/Page_Automation Exercise - All Products/p_Men Tshirt'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/Page_Automation Exercise - All Products/p_Sleeveless Dress'))
 
-WebUI.click(findTestObject('Object Repository/Page_Automation Exercise - All Products/a_Add to cart'))
-
-WebUI.click(findTestObject('Object Repository/Page_Automation Exercise - All Products/u_View Cart'))
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Automation Exercise - Checkout/a_Blue Top'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Automation Exercise - Checkout/a_Men Tshirt'), 0)
+WebUI.closeBrowser()
 

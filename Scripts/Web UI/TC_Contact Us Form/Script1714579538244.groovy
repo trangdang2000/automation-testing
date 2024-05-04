@@ -35,5 +35,5 @@ WebUI.setText(findTestObject('Object Repository/Page_Automation Exercise - Conta
 
 WebUI.click(findTestObject('Object Repository/Page_Automation Exercise - Contact Us/input_Get In Touch_submit'))
 
-not_run: WebUI.closeBrowser()
+WebUI.closeBrowser()
 
