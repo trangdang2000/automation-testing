@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Cart is empty Click here to buy products</name>
+   <tag></tag>
+   <elementGuidId>719d90c8-d442-4548-8b06-d7a4a0773702</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#empty_cart > p.text-center</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='empty_cart']/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Cart is empty! Click here to buy products.&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>3ec5aee8-5103-4807-8030-af1fb6bd2064</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-center</value>
+      <webElementGuid>4aa236d6-43f7-4d6e-b449-05a4714593af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cart is empty! Click here to buy products.</value>
+      <webElementGuid>931654cc-30af-4c15-a228-d358e74a20c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;empty_cart&quot;)/p[@class=&quot;text-center&quot;]</value>
+      <webElementGuid>ee93306c-db5d-469e-835f-cca53bc91755</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='empty_cart']/p</value>
+      <webElementGuid>f897d1d1-51a7-42b5-a383-cb37e3ddc052</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total'])[1]/following::p[1]</value>
+      <webElementGuid>d5a822d1-c749-4ff5-86ff-9152f262bc15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quantity'])[1]/following::p[1]</value>
+      <webElementGuid>558e5b42-4bb0-4834-942e-2680a38d9ea2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Click']/parent::*</value>
+      <webElementGuid>3d9e54c8-5b0d-4264-a93b-a33b10c7622a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/p</value>
+      <webElementGuid>b2f25370-0ec9-485e-9ab9-ee71ab02bf8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Cart is empty! Click here to buy products.' or . = 'Cart is empty! Click here to buy products.')]</value>
+      <webElementGuid>6540b260-8cf5-42d7-89f0-333cd5cb691d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

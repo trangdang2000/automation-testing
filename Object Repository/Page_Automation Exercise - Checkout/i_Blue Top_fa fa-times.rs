@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Blue Top_fa fa-times</name>
+   <tag></tag>
+   <elementGuidId>cac2e14c-f7df-4c66-b2d6-0c1141ea4b75</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-times</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[@id='product-1']/td[6]/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;&quot;i] >> a</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>c803f4bd-c5f2-4d3e-9b27-8f50789923d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-times</value>
+      <webElementGuid>7e9bf230-60b5-4288-a7db-d1b34192ec21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;product-1&quot;)/td[@class=&quot;cart_delete&quot;]/a[@class=&quot;cart_quantity_delete&quot;]/i[@class=&quot;fa fa-times&quot;]</value>
+      <webElementGuid>e7d1c95f-5a45-48fb-b963-079d0cea044b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='product-1']/td[6]/a/i</value>
+      <webElementGuid>cf2b68dc-1a36-4a8c-8680-813fb2a78d96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[6]/a/i</value>
+      <webElementGuid>48141cd3-8ad4-4d8c-9f5d-c411f72fc70b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
